@@ -1,6 +1,6 @@
 require 'calculator'
 
-describe 'Calculadora' do
+describe 'Calculadora', "Descreve o Teste" do
   subject(:calc) { Calculator.new() }
 
   context '#sum' do
