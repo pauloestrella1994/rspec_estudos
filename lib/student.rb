@@ -7,4 +7,7 @@ class Student
 
   def foo(greetings)
   end
+
+  def bar
+  end
 end
