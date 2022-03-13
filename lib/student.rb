@@ -4,4 +4,7 @@ class Student
   def has_finished?(course)
     #true / false
   end
+
+  def foo(greetings)
+  end
 end
